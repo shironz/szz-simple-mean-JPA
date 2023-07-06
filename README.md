@@ -1,4 +1,4 @@
-# szz-simple-mean-JPA
+# ReadMe
 
 Here we attach the simulation codes used in the following paper:
 
